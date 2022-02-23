@@ -10,3 +10,5 @@ git config --global user.name "KyounglaeKim"
 ## 해야할 일
 - Git Commit하기
 - Git Push하기
+- Jenkins 얼른 하이
+- 퇴근하기
